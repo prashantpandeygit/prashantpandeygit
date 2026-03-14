@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2026 - To: 13 March 2026
+From: 07 March 2026 - To: 14 March 2026
 
-Total Time: 30 mins
+Total Time: 2 hrs 40 mins
 
-hyprlang   16 mins               █████████████▒░░░░░░░░░░░   53.06 %
-V          14 mins               ███████████▒░░░░░░░░░░░░░   45.55 %
-Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Python     2 hrs 7 mins          ███████████████████▒░░░░░   76.99 %
+hyprlang   16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+V          14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Other      4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Lua        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
