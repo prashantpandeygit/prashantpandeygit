@@ -1,14 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2026 - To: 20 March 2026
+From: 14 March 2026 - To: 21 March 2026
 
-Total Time: 2 hrs 58 mins
+Total Time: 1 hr 1 min
 
-Python   2 hrs 13 mins         ██████████████████░░░░░░░   71.74 %
-V        42 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
-Other    7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Lua      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+V        55 mins               ███████████████████░░░░░░   75.66 %
+Other    12 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Python   5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
 ```
 
 <!--END_SECTION:waka-->
