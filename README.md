@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 31 March 2026 - To: 07 April 2026
 
-Total Time: 1 hr 16 mins
+Total Time: 3 hrs 31 mins
 
-Python       38 mins               ████████████░░░░░░░░░░░░░   48.09 %
-HTML         16 mins               █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-Verilog      14 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-Markdown     4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-hyprlang     3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Python       2 hrs 58 mins         ████████████████████▓░░░░   83.13 %
+Verilog      24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+hyprlang     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Markdown     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
