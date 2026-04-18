@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Total Time: 14 hrs 23 mins
+Total Time: 12 hrs 4 mins
 
-Python       11 hrs 32 mins        ████████████████████░░░░░   79.55 %
-HTML         1 hr 34 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Markdown     45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Verilog      26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python       10 hrs 25 mins        █████████████████████▓░░░   86.37 %
+HTML         1 hr 15 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Markdown     18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Text         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
