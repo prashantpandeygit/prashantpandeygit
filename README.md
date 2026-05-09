@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Total Time: 3 hrs 31 mins
+Total Time: 3 hrs 50 mins
 
-Python          2 hrs 41 mins         ███████████████████░░░░░░   76.08 %
-Verilog         25 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-TSV             12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-SystemVerilog   9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Text            2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Python       3 hrs 32 mins         ███████████████████████░░   92.23 %
+TSV          12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+CSV          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
